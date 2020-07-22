@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there,I'm pea-sys 👋
+
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pea-sys&hide=["stars"]&show_icons=true)
 
 <!--
 **pea-sys/pea-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
