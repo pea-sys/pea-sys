@@ -1,5 +1,10 @@
 ### Hi there,I'm pea-sys 👋
 
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pea-sys/count.svg" />
+</p>
+
 ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pea-sys&hide=["stars"]&show_icons=true)
 
 <!--
